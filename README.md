@@ -9,7 +9,7 @@ With an emphasis not only on the foundational theory and underlying concepts, bu
 
 ## Table of Contents
 
-### Introduction to Portfolio Construction and Analysis with Python
+### 1. Introduction to Portfolio Construction and Analysis with Python
 
 This course covers a broad range of topics in portfolio investment management and portfolio construction such as the fundamentals of risk and return, efficient frontier, Monte Carlo simulations etc.
 
@@ -18,7 +18,7 @@ This course covers a broad range of topics in portfolio investment management an
 * Week 3: Beyond Diversification
 * Week 4: Introduction to Asset-Liability Management
 
-### Advanced Portfolio Construction and Analysis with Python
+### 2. Advanced Portfolio Construction and Analysis with Python
 
 This course covers the estimation, of risk and return parameters for meaningful portfolio decisions, and introduces a variety of state-of-the-art portfolio construction techniques that have proven popular in investment management and portfolio construction due to their enhanced robustness.
 
@@ -27,7 +27,7 @@ This course covers the estimation, of risk and return parameters for meaningful 
 * Week 3: Robust estimates for expected returns
 * Week 4: Portfolio Optimization in Practice
 
-### Python and Machine Learning for Asset Management
+### 3. Python and Machine Learning for Asset Management
 
 The course covers an introduction to the fundamentals of machine learning, followed by an in-depth discussion of the application of these techniques to portfolio management decisions, including the design of more robust factor models, the construction of portfolios with improved diversification benefits, and the implementation of more efficient risk management models. 
 
@@ -37,7 +37,7 @@ The course covers an introduction to the fundamentals of machine learning, follo
 * Week 4: Machine learning techniques for regime analysis
 * Week 5: Identifying recessions, crash regimes and feature selection
 
-### Python and Machine-Learning for Asset Management with Alternative Data Sets
+### 4. Python and Machine-Learning for Asset Management with Alternative Data Sets
 
 This course introduces the core concepts around alternative data, the most recent research in this area, as well as practical portfolio examples and actual applications. 
 

@@ -13,8 +13,8 @@ With an emphasis not only on the foundational theory and underlying concepts, bu
 
 This course covers a broad range of topics in portfolio investment management and portfolio construction such as the fundamentals of risk and return, efficient frontier, Monte Carlo simulations etc.
 
-* Week 1: Analysing returns
-* Week 2: An Introduction to Portfolio Optimization
+* [Week 1: Analysing returns](https://github.com/ojudz08/Investment-Management-with-Python-and-Machine-Learning/tree/main/1_Intro%20to%20Portfolio%20Construction%20and%20Analysis/Week%201)
+* [Week 2: An Introduction to Portfolio Optimization](https://github.com/ojudz08/Investment-Management-with-Python-and-Machine-Learning/tree/main/1_Intro%20to%20Portfolio%20Construction%20and%20Analysis/Week%202)
 * Week 3: Beyond Diversification
 * Week 4: Introduction to Asset-Liability Management
 
